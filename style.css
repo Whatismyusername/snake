@@ -1,0 +1,13 @@
+body{
+    margin:0;
+}
+#board{
+    height:98px;
+    width:598px;
+    border:1px solid black;
+}
+#snakeSizeDiv{
+    margin:0px;
+    width:100px;
+    float:left;
+}
